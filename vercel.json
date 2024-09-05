@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://go-to.notion.site/FLD-works-w-Notion-58f537837fbc41a2bf78982e3cef57e9?pvs=4/$1"
+ }
+  ]
+}
